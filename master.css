@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.wrap{
+    position: absolute;
+    margin: 0 auto;
+    width: 1100px;
+}
+.wrap01{
+    position: absolute;
+    margin: 0 auto;
+    margin-left: 410px;
+   
+}
+.wrap02{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    margin-left: 410px;
+}
+.fr_set{
+    background-size: cover;
+    position: absolute;
+   
+}
+.fr01{margin-top: 701px;}
+.fr02{margin-top: 19px;}
+.fr03{margin-top: 19px;}
+
+
+/*--sub01--*/
+ul{
+    width: 1006PX;
+    height: 98px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+   
+    position: absolute;
+    margin-left: 454px;
+}
+
+.bt01{}
+.bt02
+.bt03
+.bt04
+
+.s_b00{width: 100%; text-align: center; position: absolute;}
+
+.s_b01{height: 950px; background-image: url(img/s01_01.jpg);}
+.s_b03{height: 227px; background-image: url(img/s01_03.jpg);}
+.s_b04{height: 915px; background-image: url(img/s01_04.jpg);}
+.s_b05{height: 566px; background-image: url(img/s01_05.jpg);}
+
+.s_ft{width: 100%;height: 200px; background-color: #1D8F68;
+margin-top: 263px;}
+
+/*--sub02--*/
+ul{
+    width: 1006PX;
+    height: 98px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+   
+    position: absolute;
+    margin-left: 454px;
+}
+
+.bt01{}
+.bt02
+.bt03
+.bt04
+
+.s_b10{width: 100%; text-align: center; position: absolute;}
+
+
+.s_b11{height: 950px; background-image: url(img/s02_01.jpg);}
+.txt01{height: 126px; background-image: url(img/txt01.jpg);}
+.s_b12{height: 804px; background-image: url(img/s02_02.jpg);}
+.s_b13{height: 770px; background-image: url(img/s02_03.jpg);}
+.s_b14{height: 944px; background-image: url(img/s02_04.jpg);}
+
+.s_ft{width: 100%;height: 200px; background-color: #1D8F68;
+    margin-top: 149px;}
+
+ /*--sub03--*/
+ul{
+    width: 1006PX;
+    height: 98px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+   
+    position: absolute;
+    margin-left: 454px;
+}
+
+.bt01{}
+.bt02
+.bt03
+.bt04
+
+.s_b20{width: 100%; text-align: center; position: absolute;}
+
+.s_b21{height: 950px; background-image: url(img/s03_01.jpg);}
+.s_b22{height: 1672px; background-image: url(img/s03_02.jpg);}
+
+
+.s_ft{width: 100%;height: 200px; background-color: #1D8F68;}
